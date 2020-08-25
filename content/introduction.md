@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![Picture of Shyen](https://elegant-swirles-90858e.netlify.app/shyen.jpg/)
+---
 
 About Me:
 ---------
