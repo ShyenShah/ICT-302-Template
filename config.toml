@@ -1,6 +1,6 @@
 baseURL = "https://elegant-swirles-90858e.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Shyen's Hugo Site"
 theme = "ananke"
 
 [build]
