@@ -53,7 +53,7 @@ url = "/annotateddefinitions/"
 [[menu.main]]
 name = "Walkthrough"
 weight = 1
-url = "/Walkthrough/"
+url = "/walkthrough/"
 
 [[menu.main]]
 name = "Dummy Post"
