@@ -58,4 +58,4 @@ url = "/walkthrough/"
 [[menu.main]]
 name = "Dummy Post"
 weight = 1
-url = "/dummypost/"
+url = "/content/dummypost/"
