@@ -55,6 +55,7 @@ name = "Walkthrough"
 weight = 1
 url = "/Walkthrough/"
 
+[[menu.main]]
 name = "Dummy Post"
 weight = 1
 url = "/dummypost/"
