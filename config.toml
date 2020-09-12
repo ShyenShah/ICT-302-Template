@@ -54,8 +54,3 @@ url = "/annotateddefinitions/"
 name = "Walkthrough"
 weight = 1
 url = "/walkthrough/"
-
-[[menu.main]]
-name = "Dummy Post"
-weight = 1
-url = "/content/dummypost/"
