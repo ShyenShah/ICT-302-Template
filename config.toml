@@ -54,3 +54,7 @@ url = "/annotateddefinitions/"
 name = "Walkthrough"
 weight = 1
 url = "/Walkthrough/"
+
+name = "Dummy Post"
+weight = 1
+url = "/dummypost/"
