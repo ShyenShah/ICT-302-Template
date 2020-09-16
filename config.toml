@@ -1,7 +1,7 @@
 baseURL = "https://elegant-swirles-90858e.netlify.app/"
 languageCode = "en-us"
 title = "Shyen's Hugo Site"
-theme = "ananke"
+theme = "hugo-theme-m10c-master"
 
 [build]
 publish = "public"
