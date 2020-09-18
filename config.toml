@@ -39,6 +39,7 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
+avatar = ""
 
 [[menu.main]]
 name = "Resource Guide"
