@@ -39,7 +39,7 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
-avatar = ""
+avatar = "https://elegant-swirles-90858e.netlify.app/shyen.jpg/"
 
 [[menu.main]]
 name = "Resource Guide"
