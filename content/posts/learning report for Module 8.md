@@ -10,7 +10,7 @@ Learning Outcomes:
 
 1. I can identify and define key concepts in (web) content management. - Learned how to pick the right type of CMS.
 2. I can describe and compare content management systems. - Compared 2 different CMS's to Hugo and WordPress
-I can manage content using established workflows. - Create a workflow on Microsoft Teams for this week's blog post.
-I can identify and employ technologies related to content management. - Used Teams, Hugo, and WordPress this weel.
-I can find and use resources for self-directed learning. - Looked up different CMS's and their wikipedia pages.
+3. I can manage content using established workflows. - Create a workflow on Microsoft Teams for this week's blog post.
+4. I can identify and employ technologies related to content management. - Used Teams, Hugo, and WordPress this weel.
+5. I can find and use resources for self-directed learning. - Looked up different CMS's and their wikipedia pages.
 
