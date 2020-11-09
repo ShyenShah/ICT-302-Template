@@ -4,7 +4,10 @@ date: 2020-11-08T00:00:00-04:00
 draft: false
 ---
 
-This week we learned about plugins within a CMS. Plugins are generally used to be helpful to a website when a developer needs the extension to enable additional features that are not within the website but can enable users to use these features for ease. Plugins can consist of forms to be filled out, 
+This week we learned about plugins within a CMS. Plugins are generally used to be helpful to a website when a developer needs the extension to enable additional features that are not within the website but can enable users to use these features for ease. Plugins can consist of forms to be filled out, surveys and many other things that improve the website and experience of a user.
+
+For our extra project this week we looked at the Jetpack plugin which allows for additional security as well as an integration tool for your Word Press sites for social media such as twitter, facebook, etc.
+
 
 
 1. I can identify and define key concepts in (web) content management. - Learned about the different plugins in a CMS.
